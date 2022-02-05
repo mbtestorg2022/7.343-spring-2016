@@ -46,19 +46,189 @@ G, Hu, J Kim, et al. "[A Genome-wide RNAi Screen Identifies A New Transcriptiona
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and Course Overview | &nbsp; |
-| 2 | In the Beginning...: Ribosomes and Ribosomal RNA | &nbsp; |
-| 3 | Careful Measuring of Unhealthy Amounts of Radioactivity: A Role for tRNAs in Polypeptide Synthesis | &nbsp; |
-| 4 | mRNA as an Information Shuttle | &nbsp; |
-| 5 | The Genomics Revolution: An Introduction to High-throughput Sequencing | &nbsp; |
-| 6 | Let's Mix it up: SnRNAs and Pre-mRNA Splicing | &nbsp; |
-| 7 | Let it Sno: Ribosomal RNA Modification Directed by SnoRNAs | Written Assignment due |
-| 8 | Small is Beautiful: MicroRNAs as Ubiquitous Regulatory Molecules | &nbsp; |
-| 9 | Running Interference: SiRNA as an Experimental Tool | Field Trip to [Broad Institute Genetic Perturbation Platform](https://www.broadinstitute.org/scientific-community/science/platforms/gpp/genetic-perturbation-platform) |
-| 10 | Protecting us from Ourselves: PiRNAs Silence Transposons in Germline Tissue | &nbsp; |
-| 11 | Who Needs Proteins?: Long Noncoding RNAs as Regulators of Gene Expression | &nbsp; |
-| 12 | No End in Sight: Circular RNAs and their (possible) Functions | &nbsp; |
-| 13 | A New Hope: CRISPR-Associated RNAs, Prokaryotic Defense Mechanisms, have been Transformed into a Tool for Genome Editing | &nbsp; |
-| 14 | Oral Presentations and Course Discussion | Oral Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+In the Beginning...: Ribosomes and Ribosomal RNA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Careful Measuring of Unhealthy Amounts of Radioactivity: A Role for tRNAs in Polypeptide Synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+mRNA as an Information Shuttle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Genomics Revolution: An Introduction to High-throughput Sequencing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Let's Mix it up: SnRNAs and Pre-mRNA Splicing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Let it Sno: Ribosomal RNA Modification Directed by SnoRNAs
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Small is Beautiful: MicroRNAs as Ubiquitous Regulatory Molecules
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Running Interference: SiRNA as an Experimental Tool
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to [Broad Institute Genetic Perturbation Platform](https://www.broadinstitute.org/scientific-community/science/platforms/gpp/genetic-perturbation-platform)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Protecting us from Ourselves: PiRNAs Silence Transposons in Germline Tissue
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Who Needs Proteins?: Long Noncoding RNAs as Regulators of Gene Expression
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+No End in Sight: Circular RNAs and their (possible) Functions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+A New Hope: CRISPR-Associated RNAs, Prokaryotic Defense Mechanisms, have been Transformed into a Tool for Genome Editing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations and Course Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
