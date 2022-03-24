@@ -78,7 +78,7 @@ Careful Measuring of Unhealthy Amounts of Radioactivity: A Role for tRNAs in Pol
 {{< tdopen >}}
  
 
-Hoagland, M.B., M. L. Stephenson, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Soluble Ribonucleic Acid Intermediate in Protein Synthesis." (PDF)](http://www.jbc.org/content/231/1/241.full.pdf) _The Journal of Biochemistry_ 213, no. 1 (1958): 241–57.
+Hoagland, M.B., M. L. Stephenson, et al. ["A Soluble Ribonucleic Acid Intermediate in Protein Synthesis." (PDF)](http://www.jbc.org/content/231/1/241.full.pdf) _The Journal of Biochemistry_ 213, no. 1 (1958): 241–57.
 
 Presnyak, V., Alhusaini N., et al. "[Codon Optimality is a Major Determinant of mRNA Stability.](http://dx.doi.org/10.1016/j.cell.2015.02.029)" _Cell_ 160, no. 6 (2015): 1111–24.
 
@@ -150,7 +150,7 @@ Let's Mix it up: SnRNAs and Pre-mRNA Splicing
 {{< tdopen >}}
  
 
-Lerner, M. R., and J. A. Steitz. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Antibodies to Small Nuclear RNAs Complexed with Proteins are Produced by Patients with Systemic Lupus Erythematosus." (PDF - 1.9MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC411675/) _Proceedings of the National Academy of Science_ 76, no. 11 (1979): 5495–9.
+Lerner, M. R., and J. A. Steitz. ["Antibodies to Small Nuclear RNAs Complexed with Proteins are Produced by Patients with Systemic Lupus Erythematosus." (PDF - 1.9MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC411675/) _Proceedings of the National Academy of Science_ 76, no. 11 (1979): 5495–9.
 
 Jia, Y., J. C. Mu, et al. "[Mutation of a U2 SnRNA Gene Causes Global Disruption of Alternative Splicing and Neurodegeneration](http://dx.doi.org/10.1016/j.cell.2011.11.057)." _Cell_ 148, no. 1–2 (2012): 296–308.
 
